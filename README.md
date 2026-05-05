@@ -1,4 +1,3 @@
-==============================
 TETRIS GAME (PYTHON)
 ====================
 
@@ -58,20 +57,7 @@ C ili SHIFT → HOLD
 ESC → izlaz
 
 ---
----
 
-## 🎮 KONTROLE
-
-LEFT ARROW   → lijevo
-RIGHT ARROW  → desno
-DOWN ARROW   → brže dolje
-UP ARROW     → rotacija
-
-C ili SHIFT → HOLD
-
-ESC → izlaz
-
----
 
 ## 🎮 GAMEPLAY MEHANIKA
 
