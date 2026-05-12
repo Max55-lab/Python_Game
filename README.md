@@ -611,5 +611,6 @@ if collision:
 
 Najvažnije:
 → projekt je rastao kroz testiranje i ispravke
-
-To je pravi način učenja programiranja.
+→ Buduće verzije i izgeldsame verzije igre će ovisiti o feedbacku 
+→Plan je za pravu reziju igre pprebaciti kod u Game Studio Maker 
+→ćiniti je javno dostupnom svakome tko želi da je proba igrti i pokrenuti 
