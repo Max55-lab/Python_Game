@@ -1,5 +1,71 @@
-TETRIS GAME (PYTHON)
-====================
+UPDATE-TETROMENIA(FINAL PRODUCT)
+===============================
+## Requirements
+* Python 3.9.5
+* PyGame 2.0.1
+* The Recommended screen resolution is between *1920 x 1080* and *2560 x 1440*
+    
+## How to run
+```sh
+python main.py
+```
+
+## How to play
+
+### Single Player
+| Action                  | Button      |
+|:------------------------|:------------|
+| Move Left               | Left Arrow  |
+| Move Right              | Right Arrow |
+| Rotate Clockwise        | Up Arrow    |
+| Rotate Counterclockwise | Down Arrow  |
+| Speed Up                | Right Shift |
+| Drop                    | Space       |
+
+### Multiplayer
+
+| Action                  | Left Player Button | Right Player Button |
+|:------------------------|:-------------------|:--------------------|
+| Move Left               | A                  | Left Arrow          |
+| Move Right              | D                  | Right Arrow         |
+| Rotate Clockwise        | W                  | Up Arrow            |
+| Rotate Counterclockwise | S                  | Down Arrow          |
+| Speed Up                | Z                  | Right Shift         |
+| Drop                    | Left Shift         | Space               |
+
+### Other buttons
+| Action              | Button |
+|:--------------------|:-------|
+| Mute / Unmute       | M      |
+| Pause / Resume      | P      |
+| Return to main menu | ESC    |
+
+### Menu Navigation
+Use arrows and press enter to select an option
+
+## Assets
+
+### Font
+https://www.dafont.com/sadana-square.font?l[]=10
+
+### Background
+https://opengameart.org/content/space-background-7
+
+### Sounds
+| Sound     | Link                                                                  |
+|:----------|:----------------------------------------------------------------------|
+| clear     | https://opengameart.org/content/3-heal-spells                         |
+| menu_move | https://opengameart.org/content/gui-sound-effects-4                   |
+| select    | https://opengameart.org/content/gui-sound-effects                     |
+| pause     | https://opengameart.org/content/gui-sound-effects                     |
+| drop      | Created at Sparklin Labs by Pixel-boy (http://superpowers-html5.com/) |
+
+
+
+
+
+OLD UPDATE-TETRIS GAME (PYTHON)-FINAL
+=====================================
 
 Autor: Josip Kapular
 Platforma: Python (Pygame)
